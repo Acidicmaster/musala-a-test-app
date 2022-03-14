@@ -1,6 +1,6 @@
 #  MERN Stack
 
-## A Musala javascript test React, Redux, Express & MongoDB
+## A Musala javascript test React, Express & MongoDB
 
 
 
@@ -73,9 +73,6 @@ npm run data:destroy
 
 `morgan` npm module to log client requests on the server console
 
-### Redux Dev Tools
-
-`redux-devtools-extension` npm module + Google Chrome `Redux DevTools` extension
 
 ## Environment Variables Config
 
@@ -93,23 +90,10 @@ npm run data:destroy
 
 `font-awesome` CDN from cdnjs.com
 
-### Titles & Meta
-
-`react-helmet`: A document head manager for React
 
 ### SPA Routes
 
 `react-router-dom` + `react-router-bootstrap`: Integration between React Router v4 and React Bootstrap.
-
-### State Management
-
-`React Hooks (useState, useEffect, etc.)` for component-level state management
-
-`Redux Pattern` for global-level state management with `redux`, `react-redux` and `redux-thunk` npm modules
-
-### Handle Payment
-
-`react-paypal-button-v2` npm module for handling PayPal payments
 
 ## NodeJS Backend
 
@@ -118,9 +102,7 @@ npm run data:destroy
 - To use `ES Module` instead of `CommonJS Module`:  
   Add `“type”: “module”` to the `package.json` for your project, and Node.js will treat all .js files in your project as ES modules.
 
-### File Upload
 
-`Multer` npm module for hanlding file uploading
 
 ## Database
 
